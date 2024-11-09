@@ -1,6 +1,9 @@
-# GitHub Activity Globe Visualization
+# Activity Globe Visualization
 
-A real-time 3D visualization dashboard that displays GitHub-like activities (commits, pull requests, and issues) on an interactive globe with comprehensive analytics.
+<img width="1370" alt="Screenshot 2024-11-08 at 11 23 42 PM" src="https://github.com/user-attachments/assets/c3ccdb93-3719-4ac4-99dd-d25de8ed6bbf">
+
+
+A real-time 3D visualization dashboard that displays Real-Time activities (commits, pull requests, and issues) on an interactive globe with comprehensive analytics.  This is all sample data, nothing is live.  Feel free to download and add your own data.
 
 
 
