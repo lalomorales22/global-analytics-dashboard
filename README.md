@@ -49,10 +49,10 @@ A real-time 3D visualization dashboard that displays Real-Time activities (commi
 
 ### Installation
 
-1. Clone the repository 
-bash
-git clone https://github.com/lalomorales22/global-analytics-dashboard.git
-cd global-analytics-dashboard
+1. Clone the repository
+
+- git clone https://github.com/lalomorales22/global-analytics-dashboard.git
+- cd global-analytics-dashboard
 
 bash
 npm install
