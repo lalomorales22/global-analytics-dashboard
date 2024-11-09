@@ -54,21 +54,11 @@ A real-time 3D visualization dashboard that displays Real-Time activities (commi
 - git clone https://github.com/lalomorales22/global-analytics-dashboard.git
 - cd global-analytics-dashboard
 
-bash
-npm install
-
-or
-yarn install
-
+- npm install
 
 3. Start the development server
 
-bash
-npm run dev
-
-or
-yarn dev
-
+- npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
