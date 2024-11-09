@@ -72,21 +72,6 @@ yarn dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## Project Structure
-src/
-├── components/
-│ ├── analytics/ # Analytics components
-│ ├── controls/ # User interface controls
-│ ├── Globe.tsx # Main 3D globe component
-│ ├── Arc.tsx # Activity arc visualization
-│ ├── Pulse.tsx # Activity pulse effects
-│ └── ParticleSystem.tsx # Particle effects
-├── store/
-│ └── activityStore.ts # Global state management
-├── types.ts # TypeScript definitions
-└── App.tsx # Main application component
-
-
 ## Configuration
 
 The application can be configured through various parameters:
